@@ -1,0 +1,27 @@
+{
+  "name": "for-more",
+  "version": "1.0.0",
+  "description": "Multithread Synchronization Loop. Support Promise.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mlinquan/for-more.git"
+  },
+  "keywords": [
+    "Array",
+    "syncEach",
+    "for-more",
+    "forMore",
+    "forEach",
+    "map",
+    "sync",
+    "multithreading",
+    "async"
+  ],
+  "author": "LinQuan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mlinquan/for-more/issues"
+  },
+  "homepage": "https://github.com/mlinquan/for-more"
+}
